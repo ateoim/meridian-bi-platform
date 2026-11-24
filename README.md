@@ -4,6 +4,8 @@ Meridian BI is an executive B2B SaaS analytics platform backed by a real, in-bro
 
 > **Dataset Disclosure:** All records in Meridian BI are generated deterministically on startup via a seeded Mulberry32 PRNG (`src/db/seed.ts`) representing a synthetic Australian B2B SaaS & commerce business across 2025–2026 (AUD).
 
+![Meridian BI Executive KPI Dashboard](./docs/screenshot-desktop.png)
+
 ---
 
 ## Core Capabilities
